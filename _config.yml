@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Chace Ciulla
+bio: Technical Writer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Clean, organized, communication
 
 # if it's an external image, update below for true
 # better with square images
@@ -20,8 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://caciulla.github.io
+# your url: https://caciulla.github.io
 
 permalink: /:title/
 
@@ -34,20 +34,18 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+twitter: @ChaceCiulla
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: https://github.com/caciulla
+email: chace.a.ciulla@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Chace Ciulla:
+    name: Chace Ciulla
+    bio: Technical Writer
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: @ChaceCiulla
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
