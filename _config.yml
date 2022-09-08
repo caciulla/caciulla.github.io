@@ -115,5 +115,4 @@ exclude:
     "Gemfile.lock",
     "FAQ.md",
     "vendor",
-    "disqus",
   ]
