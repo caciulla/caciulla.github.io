@@ -13,32 +13,10 @@ author: chaceciulla
 description: Technical Writer HQ Capstone Project
 ---
 
-## Summary:
-
-You can pick as item to see how to apply in markdown.
-
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
-
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
-
----
-
-## Evidence
-
-
 ## Technical Writer HQ Capstone Project
 
 # Table of Contents
-=================
+==========================
 
   
 
@@ -53,7 +31,7 @@ You can pick as item to see how to apply in markdown.
 *   Example 7:  [Release Notes](#ReleaseNotes)
 
 <div style="page-break-after: always;"></div>
--
+==========================
 
 <a name="Memo"></a>
 
@@ -102,7 +80,8 @@ Oracle Simphony POS is used in any area of customer service and hospitality, fro
 Simphony POS is fully customizable, quick to install, and easy to use. Call today 1.800.937.2211 to set up a free demonstration or visit our website for [more details](https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/?source=:ad:dd:op:dg:a_nas::RC_BUMK200416P00111:WD22_GBU_FB_CP37_M0601_SP070YP06_DP0090_AP03_RO003).
 
 <div style="page-break-after: always;"></div>
--
+
+==========================
 
 <a name="FeaturesGuide"></a>
 
@@ -183,7 +162,7 @@ For a complete list of Simphony POS 2022 features visit the website [here](https
 
 
 <div style="page-break-after: always;"></div>
--
+==========================
 
 
 
@@ -216,7 +195,6 @@ There are three ways to sign into the Simphony POS System at a work station:
 
 * * *
 
-###   
 
 ### How to Begin a Check
 
@@ -297,7 +275,7 @@ To say the POS is cloud-based means that, though your checks and services will b
 
 Visit the Oracle Cloud Infrastructure (OCI) [website](https://www.oracle.com/security/cloud-security/) to learn about Oracle's Cloud Security Services.
 
-###   
+
 
 ### What if the restaurant loses internet connection?
 
@@ -341,7 +319,9 @@ Simphony POS pricing plans come in three options:
 
 
 <div style="page-break-after: always;"></div>
--
+
+==========================
+
 <a name="CaseStudy"></a>
 
 # Case Study
@@ -395,7 +375,7 @@ Though the future of the restaurant industry remains uncertain, modern cloud tec
 "In the end, not only were we able to maintain our profit margins, we actually grew several of our businesses at a time when many in our city were closing down!" Jake continues, "we're looking forward to what other great things we can do with the technology that's out there. Oracle's Simphony POS really opened our eyes to these new possibilities for growth."
 
 <div style="page-break-after: always;"></div>
--
+==========================
 
 <a name="MRD"></a>
 
@@ -432,7 +412,7 @@ This document outlines the growing demand for comprehensive SaaS management tool
 Brenda and Brad Davis are married. They're both 37-year-old college graduates who left their respective industries in their mid-thirties to pursue their dream of opening a gourmet egg salad food truck together in East Portland, OR. After eight months, their egg salad truck is so successful they purchase a second truck and begin managing two separate locations—one behind a bar in Hyde Park and one in the business district, which is focuses on lunch and daytime professionals. With the success of the new truck they opened a brick-and-mortar restaurant in North East, Portland. The new expansion, while exciting, has also become a challenge. The success of the two trucks forced Brenda and Brad to open up a commercial kitchen to keep up with high product demand. They are finding it unmanageable to keep track of inventory in all four locations. Also, the managers of the food trucks do not process end-of-day reports and analytics. The trucks also have opposite peak hours, which adds to the chaotic reporting issues. Brenda and Brad need to find a quick and intuitive system to organize the inventory from all four locations. The ability to process reports and meet financial management needs is crucial for them to be able to spend more time focusing on the new dream restaurant.
 
 <div style="page-break-after: always;"></div>
--
+==========================
 
 <a name="ReleaseNotes"></a>
 
