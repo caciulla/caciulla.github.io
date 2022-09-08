@@ -6,10 +6,10 @@
             </li>
         {% endif %}
 
-        {% if site.portfolio == true %}
-            {% if page.title != "Portfolio" %}
+        {% if site.blog == true %}
+            {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/portfolio">Portfolio</a>
+                    <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
             {% endif %}
         {% endif %}
