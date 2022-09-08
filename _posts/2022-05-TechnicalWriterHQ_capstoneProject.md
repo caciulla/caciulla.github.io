@@ -1,5 +1,15 @@
-Chace Ciulla  
-May 2022
+---
+title: "Technical Writer HQ Capstone Project"
+layout: post
+date: 2022-09-07 22:40
+tag: jekyll
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: portfolio
+category: project
+author: chaceciulla
+externalLink: false
 
 ## Technical Writer HQ Capstone Project
 
