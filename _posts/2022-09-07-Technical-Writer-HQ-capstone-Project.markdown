@@ -1,15 +1,39 @@
 ---
-title: "Technical Writer HQ Capstone Project"
+title: "Portfolio"
 layout: post
-date: 2022-09-07 22:40
-tag: jekyll
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: portfolio
-category: project
+date: 2022-09-07 21:54
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- portfolio
+- technical
+- writer
+category: blog
 author: chaceciulla
-externalLink: false
+description: Technical Writer HQ Capstone Project
+---
+
+## Summary:
+
+You can pick as item to see how to apply in markdown.
+
+#### Especial Elements
+- [Evidence](#evidence)
+- [Side-by-Side](#side-by-side)
+- [Star](#star)
+- [Especial Breaker](#especial-breaker)
+- [Spoiler](#spoiler)
+
+#### External Elements
+- [Gist](#gist)
+- [Codepen](#codepen)
+- [Slideshare](#slideshare)
+- [Videos](#videos)
+
+---
+
+## Evidence
+
 
 ## Technical Writer HQ Capstone Project
 
