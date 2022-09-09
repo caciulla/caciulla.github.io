@@ -23,7 +23,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://caciulla.github.io
 # your url: https://caciulla.github.io
 
-permalink: /:title/
+permalink: "/:title"
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -61,7 +61,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: # true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
