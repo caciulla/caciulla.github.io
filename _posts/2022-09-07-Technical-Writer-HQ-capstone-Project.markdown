@@ -145,7 +145,7 @@ Self-Service Kiosks
 
 Simphony POS self-service kiosks allow guests to make selections and payment options at their own pace, streamlining the time it takes for orders to be taken and processed while reducing staff overhead. Self-service kiosks also make data capture easier, which means stronger targeted upsells, easier repeat order recall, and better customer loyalty enrollment.
 
-![SimphonyPOS2 Kiosk](https://www.oracle.com/a/ocom/img/cb112-kiosks-vlightgreybg-min.jpg)<b><sub><sup>Image: Oracle Symphony on self-service kiosks</sub></sup></b>
+![SimphonyPOS2 Kiosk](https://www.oracle.com/a/ocom/img/cb112-kiosks-vlightgreybg-min.jpg)<b><sub><sup>Image: Oracle Symphony on self-service kiosks</sup></sub></b>
 
 
 
