@@ -1,7 +1,7 @@
 ---
 title: "API demo documentation"
 layout: post
-date: 2022-09-8 18:35
+date: 2022-09-08 18:35
 tag: jekyll
 image: 
 headerImage: true
