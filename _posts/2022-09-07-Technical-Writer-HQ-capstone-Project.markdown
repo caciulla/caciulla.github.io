@@ -147,7 +147,7 @@ Simphony POS self-service kiosks allow guests to make selections and payment opt
 
 ![SimphonyPOS2 Kiosk](https://www.oracle.com/a/ocom/img/cb112-kiosks-vlightgreybg-min.jpg)<b><sub><sup>Image: Oracle Symphony on self-service kiosks</sub></sup></b>
 
-###   
+
 
 Multichannel Kitchen Displays
 -----------------------------
