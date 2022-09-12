@@ -1,19 +1,16 @@
 ---
-title: About (work in progress)
+title: About 
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Please excuse this section as I am focusing on formatting at the moment. A polished __ABOUT ME__  section will be here shortly</p>
+## About Me Section
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Originally from Massachusetts, Chace attended high school near Cape Cod and then a Technical Communications school in Boston where he studied Graphic Design. After his first year he relocated to Vermont where he received a Bachelor’s Degree in both Creative Writing and Psychology. During his time in Vermont he worked as a content writer for local newspaper, The Vermont Times.  
+After graduating, Chace moved to Austin, Texas where he pursued becoming a novelist, completing four novels and two chapbooks while working as a bartender. He also wrote poetry for an online blog and worked as a volunteer advocate at the National Domestic Violence Hotline.   
+He received a Technical Writing Certification in 2022, and is currently taking CS50x, Harvard’s introduction to Computer Science online. He enjoys writing in VS Code, using Markdown, publishing on Github, collaborating on Open Source Projects, and learning new programming languages.
 
-<h2>Skills</h2>
+<!--- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -37,4 +34,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> --->
