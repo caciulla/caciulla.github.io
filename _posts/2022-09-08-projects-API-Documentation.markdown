@@ -5,9 +5,7 @@ date: 2022-09-08 18:35
 # image: 
 # tag: jekyll
 tag: 
-- Open API
-- Swagger UI
-- Demo
+
 headerImage: false
 # projects: true
 # hidden: true # don't count this post in blog pagination
@@ -18,5 +16,5 @@ author: chaceciulla
 ---
 # Open Source Demo
 
-> https://github.com/caciulla/Swagger_OpenAPI_demo/blob/trunk/openweathermap.yml
+[Demo Project](https://github.com/caciulla/Swagger_OpenAPI_demo/blob/trunk/openweathermap.yml)
 
