@@ -16,7 +16,7 @@ category: blog
 author: chaceciulla
 # externalLink: false
 ---
-#Coming Soon
+# Open Source Demo
 
->insert project
+> https://github.com/caciulla/Swagger_OpenAPI_demo/blob/trunk/openweathermap.yml
 
