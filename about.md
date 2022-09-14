@@ -7,7 +7,7 @@ layout: page
 ## About Me Section
 
 Originally from Massachusetts, Chace attended a Technical Communications Institute in Boston where he studied Graphic Design. After his first year he relocated to Vermont where he received a Bachelor’s Degree in both Creative Writing and Psychology. During his time in Vermont he worked as a content writer for local newspaper, The Vermont Times.  
-After graduating, Chace moved to Austin, Texas where he pursued becoming a novelist, completing four novels and two chapbooks while working as a bartender. He also wrote poetry for an online blog and worked as a volunteer advocate at the National Domestic Violence Hotline.   
+After graduating, Chace moved to Austin, Texas where he pursued writing, completing four novels and two chapbooks while working as a bartender. He also wrote poetry for an online blog and worked as a volunteer advocate at the National Domestic Violence Hotline.   
 He received a Technical Writing Certification in 2022, and is currently taking CS50x, Harvard’s introduction to Computer Science online. He enjoys writing in VS Code, using Markdown, publishing on Github, collaborating on Open Source Projects, and learning new programming languages.
 
 <!--- <h2>Skills</h2>
