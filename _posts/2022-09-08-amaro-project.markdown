@@ -15,7 +15,7 @@ description: Website I wrote to teach a crash course on amaro
 
 ## Portfolio - Amaro Project
 
-For this project I created a webiste that displays training material I created for a restaurant in Austin, Texas.
+For this project I created a website that displays training material I created for a restaurant in Austin, Texas.
 
 I originally wrote this crash course as an oral presentation to help better familiarize the staff with our beverage program.
 
