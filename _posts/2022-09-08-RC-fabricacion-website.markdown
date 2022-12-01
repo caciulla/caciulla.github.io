@@ -1,5 +1,5 @@
 ---
-title: "Website"
+title: "Project One"
 layout: post
 date: 2022-09-08 21:50
 image:
