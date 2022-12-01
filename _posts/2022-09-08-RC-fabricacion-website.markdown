@@ -15,12 +15,12 @@ description: Website I built for a small company
 
 This is a project I worked on this fall. I built a website for RC Fabricación, a small construction company. I created every aspect of the company's public facing material, including:
 
--   Wrote the company mission statement
--   Wrote the company Summary page
--   Wrote the About section
--   Desiged the logo
--   Built the whole site locally using hugo in VS Code
--   Pushed the site to a GitHub repository
--   Deployed the site using Cloudflare.io
+-   Writing the company mission statement
+-   Writing the company Summary page
+-   Writing the About section
+-   Designing the logo
+-   Building the site locally using hugo in VS Code
+-   Pushing the site to a GitHub repository
+-   Deploying the site using Cloudflare.io
 
-Find the website [here](https://rcbaja.pages.dev/)
+Please find the website [here](https://rcbaja.pages.dev/)
