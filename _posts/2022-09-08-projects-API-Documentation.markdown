@@ -2,10 +2,9 @@
 title: "API demo documentation"
 layout: post
 date: 2022-09-08 18:35
-# image: 
+# image:
 # tag: jekyll
-tag: 
-
+tag:
 headerImage: false
 # projects: true
 # hidden: true # don't count this post in blog pagination
@@ -14,7 +13,7 @@ category: blog
 author: chaceciulla
 # externalLink: false
 ---
+
 # Open Source Demo
 
 [Demo Project](https://github.com/caciulla/Swagger_OpenAPI_demo/blob/trunk/openweathermap.yml)
-
