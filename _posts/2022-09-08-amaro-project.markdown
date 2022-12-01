@@ -15,13 +15,13 @@ description: Website I wrote to teach a crash course on amaro
 
 ## Portfolio - Amaro Project
 
-For this project I created a website that displays training material I created for a restaurant in Austin, Texas.
+This project is a website that displays training material I created for a restaurant in Austin, Texas.
 
-I originally wrote this crash course as an oral presentation to help better familiarize the staff with our beverage program.
+I originally wrote this crash course as an oral presentation to help better familiarize the staff with our beverage program. I constructed the website out of the notes and handouts the accompanied the presentation.
 
 The class was a big success, leading to a 10% increase in amaro sales within a week.
 
-This site was written locally on VS code using a hugo theme, similar to the RC Fabricación project. The photos are open source, stock images from unplash and pexels.
+This site was written locally on VS code using a hugo theme, similar to the RC Fabricación project. The photos are open source, stock images from unsplash and pexels.
 
 Also, in this project I learned how to write the JSON from sratch rather than relying on the example site from the hugo theme. I found that rewarding. I also learned how to better utlize the GitHub desktop.
 
