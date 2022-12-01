@@ -12,7 +12,7 @@ description: Website I built for a small company
 projects: true
 ---
 
-## Construction Company Project
+## Construction Company Website
 
 This is a project I worked on this fall. I built a website for RC Fabricación, a small construction company. I created every aspect of the company's public facing material, including:
 

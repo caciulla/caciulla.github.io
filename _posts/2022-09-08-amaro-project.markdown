@@ -14,7 +14,7 @@ description: Website I wrote to teach a crash course on amaro
 projects: true
 ---
 
-## Portfolio - Amaro Project
+## Amaro Crash Course Website
 
 This project is a website that displays training material I created for a restaurant in Austin, Texas.
 
