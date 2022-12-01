@@ -13,7 +13,7 @@ description: Website I built for a small company
 
 ## Portfolio - Website Project
 
-This is a project I worked on this fall. I built a website for a RC Fabricación, a small construction company. I created every aspect of the company's public facing material, including:
+This is a project I worked on this fall. I built a website for RC Fabricación, a small construction company. I created every aspect of the company's public facing material, including:
 
 -   Wrote the company mission statement
 -   Wrote the company Summary page
