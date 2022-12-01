@@ -6,9 +6,10 @@ image:
 headerImage: false
 tag:
     - website
-category: blog
+category: projects
 author: chaceciulla
 description: Website I built for a small company
+projects: true
 ---
 
 ## Construction Company Project

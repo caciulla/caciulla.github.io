@@ -8,9 +8,10 @@ tag:
     - amaro
     - training material
     - technical writing
-category: blog
+category: projects
 author: chaceciulla
 description: Website I wrote to teach a crash course on amaro
+projects: true
 ---
 
 ## Portfolio - Amaro Project
