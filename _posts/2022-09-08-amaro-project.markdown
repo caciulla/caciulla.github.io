@@ -24,8 +24,8 @@ The class was a big success, leading to a 10% increase in amaro sales within a w
 
 This site was written locally on VS code using a hugo theme, similar to the RC Fabricación project.
 
-In this project I learned how to write the YAML from scratch rather than copying the example site from the hugo theme which much cleaner code. I found that rewarding. And I learned how to better utilize the GitHub desktop.
+In this project I wrote the YAML from scratch rather than copying the example site from the hugo theme which created much cleaner code. I found that rewarding. I also learned how to better utilize the GitHub desktop.
 
-As an amaro enthusiast, I had fun working on this project and hope this little website goes on to help someone in need of a quick crash course on amaro in the future.
+I had fun working on this project as an amaro enthusist and hope this little website will help someone in need of a quick crash course on amaro in the future.
 
 Please find the website [here](https://amaro.pages.dev/)
