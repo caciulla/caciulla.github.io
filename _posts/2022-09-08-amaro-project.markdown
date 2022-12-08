@@ -26,6 +26,6 @@ This site was written locally on VS code using a hugo theme, similar to the RC F
 
 In this project I wrote the YAML from scratch rather than copying the example site from the hugo theme which created much cleaner code. I found that rewarding. I also learned how to better utilize the GitHub desktop.
 
-As an amaro enthusist, I had fun working on this project. I hope this little project might go on to help someone in the future who would like to learn more about amari.
+As an amaro enthusist, I had fun working on this project. I hope this little static website goes on to help someone learn more about amari.
 
 Please find the website [here](https://amaro.pages.dev/)
