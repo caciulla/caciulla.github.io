@@ -13,7 +13,7 @@ author: chaceciulla
 description: Technical Writer HQ Capstone Project
 ---
 
-## Technical Writer HQ Capstone Project
+<!-- ## Technical Writer HQ Capstone Project -->
 
 # Table of Contents
 
