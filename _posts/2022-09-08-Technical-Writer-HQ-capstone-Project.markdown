@@ -257,9 +257,10 @@ Cloud-based SaaS, or Software as a Service, offered the options and flexibility 
 "The ghost kitchens are really cool. With fewer hotel guests, we were able to use the commercial space in our hotels to expedite our ordering process. We rerouted the orders placed online and through third parties like Door-Dash and Uber Eats directly to the monitors in the service kitchens. This freed up the front-of-house staff we had left to help walk-in customers and many phone orders. It really saved us and our team a ton of time and energy," Jake says.
 
 Though the future of the restaurant industry remains uncertain, modern cloud technologies like self-service kiosks, online order processing, and contactless pick-up are innovating the changes restaurants need to stay competitive with customer trends.
+
 | ![Photo self-service restaurant kiosks running Oracle Simphony](https://www.eposni.com/wp-content/uploads/2020/01/Kiosk-Photo-canteen.jpg) |
-| :--: |
-| _<b><sup><sub>Image: self-service restaurant kiosks running Oracle Simphony</sub></sup></b>_ |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
+|                        _<b><sup><sub>Image: self-service restaurant kiosks running Oracle Simphony</sub></sup></b>_                        |
 
 "In the end, not only were we able to maintain our profit margins, we actually grew several of our businesses at a time when many in our city were closing down!" Jake continues, "we're looking forward to what other great things we can do with the technology that's out there. Oracle's Simphony POS really opened our eyes to these new possibilities for growth."
 
