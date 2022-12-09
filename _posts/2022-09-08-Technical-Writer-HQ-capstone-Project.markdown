@@ -52,7 +52,7 @@ Oracle Simphony POS is used in any area of customer service and hospitality, fro
 
 **How To Get Started With Simphony POS?**
 
-Simphony POS is fully customizable, quick to install, and easy to use. Call today 1.800.937.2211 to set up a free demonstration or visit our website for [more details](https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/?source=:ad:dd:op:dg:a_nas::RC_BUMK200416P00111:WD22_GBU_FB_CP37_M0601_SP070YP06_DP0090_AP03_RO003).
+Simphony POS is fully customizable, quick to install, and easy to use. Call today ![Oracle customer service](tel:1.800.937.2211) to set up a free demonstration or visit our website for [more details](https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/?source=:ad:dd:op:dg:a_nas::RC_BUMK200416P00111:WD22_GBU_FB_CP37_M0601_SP070YP06_DP0090_AP03_RO003).
 
 <div style="page-break-after: always;"></div>
 
