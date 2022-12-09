@@ -211,9 +211,9 @@ Simphony uses real-time data forecasts, historical usage, and sales records to m
 
 Simphony POS pricing plans come in three options:
 
--   **Essentials\*\***:\*\* ($55) - The basics for small restaurants
--   **Plus\*\***:\*\* ($75) - For restaurants with multiple locations, franchises, and larger restaurants
--   **Single Tenant\*\***:\*\* (Quote) - This option allows for a customized deployments to run Oracle POS systems on their own technology stack. Contact Oracle to [Request a Demo](https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/).
+-   **Essentials**: ($55) - The basics for small restaurants
+-   **Plus**: ($75) - For restaurants with multiple locations, franchises, and larger restaurants
+-   **Single Tenant**: (Quote) - This option allows for a customized deployments to run Oracle POS systems on their own technology stack. Contact Oracle to [Request a Demo](https://www.oracle.com/industries/food-beverage/restaurant-pos-systems/simphony-pos/).
 
 <div style="page-break-after: always;"></div>
 
