@@ -236,7 +236,8 @@ But like many restaurants, recently they've experienced staff shortages, state c
 "At one point we were worried we'd be forced to make a series of layoffs and maybe even shut down a few of the properties. And we knew we really didn't want to do that. Things were very chaotic."
 
 Lucky for Jake and the employees of XZY, they had started a contract with a cloud-based POS systems company the previous year.
-| ![](https://media.gettyimages.com/photos/smiling-young-male-restaurant-worker-giving-out-togo-order-to-the-picture-id1265671277?s=170667a) |
+
+| ![Photo restaurant employee with takeout bags](https://media.gettyimages.com/photos/smiling-young-male-restaurant-worker-giving-out-togo-order-to-the-picture-id1265671277?s=170667a) |
 | :--: |
 | _<b><sup><sub>Image: Olive Grove server, John Dale, with order to go</sub></sup></b>_ |
 
