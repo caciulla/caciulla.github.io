@@ -278,9 +278,10 @@ Small restaurant and food truck owners need better tools to manage multiple loca
 ### Introduction
 
 Global industry demand among independent restaurant owners for more comprehensive SaaS features in cloud-based POS systems are projected to grow (x%) by 2025. Cloud-based POS systems are expected to grow among independent restaurant owners by (x%) while the need for more customizable features within niche markets will expand (x%) by 2028 ([yahoo finance](https://finance.yahoo.com/news/global-cloud-pos-market-component-080500425.html)). Global restaurant trends and growth of cloud-based POS systems from 2012-2022 grew more than (x%) and the market is expected to continue upwards.
+
 | ![Simphony POS Graph](https://docs.google.com/spreadsheets/d/e/2PACX-1vQr29Vo9yg2ZqbcMIj2ehX7CE0kBnQqfEhtS9E4ZGzWaoC_lQwYAH624ta_VOOkODk09vorUZWH5nQd/pubchart?oid=2105912032&format=image) |
-| :--: |
-| _<b><sup><sub>Image: graph depicting percentage of new restaurants using Cloud-based POS systems which opened between 2012-2022</sub></sup></b>_ |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                      _<b><sup><sub>Image: graph depicting percentage of new restaurants using Cloud-based POS systems which opened between 2012-2022</sub></sup></b>_                       |
 
 ### Vision
 
