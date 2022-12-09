@@ -323,10 +323,12 @@ Simphony POS pricing plans come in three options:
 
 # Case Study
 
-##XYZ Restaurant Group Uses Self-Service Kiosks And Cloud-Based Technology To Build New To-Go Business Overnight
+## XYZ Restaurant Group Uses Self-Service Kiosks And Cloud-Based Technology To Build New To-Go Business Overnight
 
 
-![StockRestaurantphoto](https://thumbs.dreamstime.com/b/empty-wide-restaurant-strasbourg-france-nov-interior-famous-authentic-french-storig-preparing-to-receive-large-group-guests-82100919.jpg)<b><sup><sub>Image: XYZ owned Olive Grove during the nationwide lockdown</sub></sup></b>
+| ![StockRestaurantphoto](https://thumbs.dreamstime.com/b/empty-wide-restaurant-strasbourg-france-nov-interior-famous-authentic-french-storig-preparing-to-receive-large-group-guests-82100919.jpg) |
+| :--: |
+| *<b><sup><sub>Image: XYZ owned Olive Grove during the nationwide lockdown</sub></sup></b>* |
   
 
 The past two years have been difficult for restaurants, and no one knows that better than Jake Flowers, CEO and founder of XYZ Restaurant Group based in Austin, Texas. XYZ is a local enterprise restaurant group, with 15 unique restaurants and 3 hotels within the city limits, they specialize in high-end, boutique niches with a strong focus on impeccable customer service and a staff of over 500 employees citywide. 
