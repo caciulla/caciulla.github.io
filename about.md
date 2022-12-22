@@ -6,7 +6,7 @@ layout: page
 
 ## About Me 
 
-I started by studying Graphic Design Technical Institute in Boston, Massachusetts. A year later, I switched majors and earned a Bachelor's Degree in Creative Writing and Psychology at Burlington College in Burlington, Vermont. 
+I started by studying Graphic Design at a Technical Institute in Boston, Massachusetts. A year later, I switched majors and earned a Bachelor's Degree in Creative Writing and Psychology at Burlington College in Burlington, Vermont. 
 
 I wrote human interest stories for a local newspaper called "The Vermont Times."
 
