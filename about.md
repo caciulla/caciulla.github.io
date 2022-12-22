@@ -4,11 +4,24 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-## About Me Section
+## About Me 
 
-Originally from Massachusetts, Chace attended a Technical Communications Institute in Boston where he studied Graphic Design. After his first year, he changed course and relocated to Vermont where he received a Bachelor’s Degree in both Creative Writing and Psychology. During his time in Vermont, he worked as a content writer for the local newspaper, The Vermont Times.  
-After graduating, Chace moved to Austin, Texas where he pursued writing, completing four novels and two novellas while working as a bartender. He also wrote poetry for an online blog and worked as a volunteer advocate at the National Domestic Violence Hotline.   
-He received a Technical Writing Certification in 2022, and is currently taking CS50x, Harvard’s introduction to Computer Science online. He enjoys writing in VS Code, using Markdown, publishing on Github, collaborating on Open Source Projects, and learning new programming languages.
+I started by studying Graphic Design Technical Institute in Boston, Massachusetts. A year later, I switched majors and earned a Bachelor's Degree in Creative Writing and Psychology at Burlington College in Burlington, Vermont. 
+
+I wrote human interest stories for a local newspaper called "The Vermont Times."
+
+I graduated, moved to Austin, Texas, and started pursuing a career in writing. I wrote four novels and two novellas while bartending in fancy Italian restaurants. 
+
+I moved to San Diego in 2020. During the commotion, I decided to make a change. I earned a certificate in Technical Writing in 2022 and began taking CS50x, Harvard's Introduction to Computer Science. I discovered that I love working with and around coding and new technologies. 
+
+I like organizing and explaining new tech in ways that make it easy to grasp. I like writing in VS Code, using Markdown, collaborating through GitHub, using Jira and Confluence, and learning new programming languages.
+
+I also love working on teams. I'm excited to work with other Technical Writers, Engineers, Developers, Product Managers, and other Subject Matter Experts excited about what the future will bring.
+
+
+
+
+
 
 <!--- <h2>Skills</h2>
 
