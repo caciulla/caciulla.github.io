@@ -16,15 +16,15 @@ projects: true
 
 This is a project I worked on this fall. I built a website for RC Fabricación, a small construction company in Baja, California. I created every aspect of the company's public facing material, including:
 
--   Writing the company mission statement
--   Writing the company Summary page
--   Writing the About section
--   Designing the logo
--   Building the site locally using hugo in VS Code
--   Pushing the site to a GitHub repository
--   Deploying the site using Cloudflare.io
+-   Writing the company mission statement.
+-   Writing the company Summary.
+-   Writing the About section.
+-   Designing the logo using Canva.
+-   Building the site locally using Hugo in VS Code.
+-   Pushing the site to a GitHub repository.
+-   Deploying the site using Cloudflare.io.
 
-The needs of the company were satisfied with a static site and free web hosting with Cloudflare. They may decide to purchase a domain name in the future.
+The needs of the company were satisfied with a static site and free web hosting with Cloudflare. They may decide to purchase an offical domain in the future.
 
 I also translated the site to fit the customer's needs with the help of my Spanish speaking partner.
 
